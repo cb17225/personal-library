@@ -1,1 +1,6 @@
 # personal-library
+Virtual library
+
+Skeleton credit: Scott Murray
+
+*Please use Java SE 8 due to discontinuation of JavaFX*
